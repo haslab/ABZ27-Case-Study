@@ -35,3 +35,6 @@ Release notes will summarize the main changes introduced in each version and, wh
 ## About ABZ27
 
 The [ABZ conference](https://abz-conf.org/) brings together researchers and practitioners working on formal methods and their applications. Each edition releases a [case study challenge](https://abz-conf.org/case-studies/) for the application of formal methods, with Statelessness Elimination being the 8th such case study. Case study contributions are presented at the conference and published in the formal proceedings.
+
+<img width="1500" height="250" alt="image" src="https://github.com/user-attachments/assets/acbfa8d3-a11b-44ec-8413-b78091b9dbc2" />
+
