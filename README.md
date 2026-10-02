@@ -1,4 +1,5 @@
-# ABZ27 Case Study - Statelessness Elimination
+# <img width="32" height="32" alt="logo" src="https://github.com/abz-conf/abz-conf.logo/blob/master/src/favicon.svg" /> ABZ27 Case Study - Statelessness Elimination 
+
 
 This repository serves as the authoritative source for the specification of the [ABZ27 Case Study](https://abz-conf.org/site/2027/casestudy/), which focuses on the domain of law.
 
@@ -36,5 +37,4 @@ Release notes will summarize the main changes introduced in each version and, wh
 
 The [ABZ conference](https://abz-conf.org/) brings together researchers and practitioners working on formal methods and their applications. Each edition releases a [case study challenge](https://abz-conf.org/case-studies/) for the application of formal methods, with Statelessness Elimination being the 8th such case study. Case study contributions are presented at the conference and published in the formal proceedings.
 
-<img width="1500" height="250" alt="image" src="https://github.com/user-attachments/assets/acbfa8d3-a11b-44ec-8413-b78091b9dbc2" />
-
+<img width="1500" height="250" alt="transparent-image" src="https://github.com/abz-conf/abz-conf.logo/raw/master/src/banner_rsbm.svg" />
