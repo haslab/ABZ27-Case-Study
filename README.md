@@ -10,7 +10,7 @@ The Case Study challenges formal methods practitioners to explore possible insta
 
 The specification is developed iteratively, and feedback is welcome throughout the preparation of the Case Study.
 
-For clarifications, general questions, identified problems, or suggestions for improvement, please [open an issue](../../issues). When possible, indicate the relevant section of the specification and provide sufficient context to explain the question or suggestion. 
+For clarifications, general questions, identified problems, or suggestions for improvement, please [open an issue](../../issues). Public discussion is encouraged, as it may help clarify the specification for other participants. When possible, indicate the relevant section and provide sufficient context.
 
 Participants are also encouraged to propose new validation **scenarios** that they consider interesting or challenging and that may provide additional opportunities for modelling, validation, and verification.
 
