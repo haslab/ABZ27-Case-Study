@@ -5,7 +5,7 @@ This repository serves as the authoritative source for the specification of the 
 
 The Case Study challenges formal methods practitioners to explore possible instantiations of domestic laws implementing the [1961 UN Convention on the Reduction of Statelessness](https://legal.un.org/ilc/texts/instruments/english/conventions/6_1_1961.pdf), and to investigate what guarantees they can provide for effectively reducing or eliminating statelessness. The goal is to formally model such laws, specify the expected guarantees, and use formal methods to validate and verify the resulting models and their properties.
 
-**Latest version:** [Specification v1.0](abz27_case_study_specification.pdf)
+**Latest version:** [Specification v1.1](abz27_case_study_specification.pdf)
 
 ## Feedback and Questions
 
